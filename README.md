@@ -1,4 +1,4 @@
-# Hi there, I'm Brieg OUDEA ! 👋
+# Hi there, I'm Brieg ! 👋
 
 ## About Me
 
@@ -31,6 +31,3 @@ I'm a passionate **Machine Learning Engineer** currently working at the [Paris B
 ---
 
 Thank you for visiting my profile! Feel free to explore my repositories, or reach out for collaborations. Let's build something amazing together! ✨
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=OudeaBrieg)](https://git.io/streak-stats)
