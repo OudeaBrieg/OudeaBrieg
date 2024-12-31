@@ -21,7 +21,7 @@
 ### Tools & Frameworks:
 - Machine Learning: **TensorFlow** 🔦, **PyTorch** 🧪, **Scikit-learn** 🔢
 - Data Visualization: **Matplotlib** 🖌️, **Seaborn** 🕊, **Plotly** 🎨
-- Development: **Git** 🔧, **Docker** 🛠️, **Linux** 💻
+- Development: **Git** 🔧, **Docker** 🛠️, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 💻
 
 ## Fun Facts 🚀
 - My work in aerospace helped shape modern European launch systems. (Ask me about it! 😉)
