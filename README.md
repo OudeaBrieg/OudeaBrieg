@@ -1,7 +1,7 @@
 # Hi there, I'm Brieg ! 👋
 
 ### Highlights:
-- 🧠 Currently working in **Neuroscience** as a **Machine Learning Engineer** at the [Paris Brain Institute](https://www.icm-institute.org/en/) researching epileptic seizure prediction using intracranial EEG.
+- 🧠 Currently working in **Neuroscience** as a **Machine Learning Engineer** at the [Paris Brain Institute](https://parisbraininstitute.org/) researching epileptic seizure prediction using intracranial EEG.
 - 🚀 Previously worked in the **Space Industry** as a **Data Scientist** at [ArianeGroup](https://ariane.group/en/), contributing to the **Ariane 6** program.
 - 🎓 Graduated from [EPITA (Paris)](https://www.epita.fr/en/) with a **French Software Engineering degree**, majoring in **Artificial Intelligence**.
 - 🔄 Fluent in **French** 🇫🇷 and **English** 🇬🇧, actively learning **German** 🇩🇪.
@@ -23,8 +23,10 @@
 - 🔄 I have a knack for bridging the gap between **data science** and real-world applications.
 - 🌿 My weekends often involve finding new trails to hike, playing 18 holes or coding experimental ML models for fun!
 
-## Connect with Me 🔍
-- [LinkedIn](https://www.linkedin.com/in/boudea/)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/boudea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="boudea" height="30" width="40" /></a>
+</p>
 
 ---
 
