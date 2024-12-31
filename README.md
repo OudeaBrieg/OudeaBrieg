@@ -19,18 +19,9 @@
 - Data Visualization: <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="20" height="20"/></a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="20" height="20"/></a> <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://plotly.com/all_static/images/icon-dash.png" alt="plotly" width="20" height="20"/></a>
 - Development: <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/></a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/></a>
 
-## Fun Facts 🚀
-- My work in aerospace helped shape modern European launch systems. (Ask me about it! 😉)
-- 🔄 I have a knack for bridging the gap between **data science** and real-world applications.
-- 🌿 My weekends often involve finding new trails to hike, playing 18 holes or coding experimental ML models for fun!
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/boudea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="boudea" height="30" width="40" /></a>
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oudeabrieg" alt="oudeabrieg" /></a> </p>
-
----
-
-Thank you for visiting my profile! Feel free to explore my repositories, or reach out for collaborations. Let's build something amazing together! ✨
