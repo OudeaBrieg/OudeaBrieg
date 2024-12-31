@@ -16,7 +16,7 @@
 
 ### Languages:
 - **Python** (primary language)
-- **C++**, **C**
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>, **C**
 
 ### Tools & Frameworks:
 - Machine Learning: **TensorFlow** 🔦, **PyTorch** 🧪, **Scikit-learn** 🔢
