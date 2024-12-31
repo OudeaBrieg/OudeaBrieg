@@ -1,12 +1,10 @@
 # Hi there, I'm Brieg ! 👋
 
-## About Me
-
-I'm a passionate **Machine Learning Engineer** currently working at the [Paris Brain Institute](https://www.icm-institute.org/en/). My journey in tech began with a fascination for problem-solving and innovation, which led me to graduate as a Software Engineer from **EPITA (Paris)**, specializing in **Artificial Intelligence**.
-
 ### Highlights:
-- 🌌 Previously worked in the **Space Industry**, contributing to the **Ariane 6** program 🚀.
-- 🔄 Fluent in **French** 🇫🇷 and **English** 🇺🇸, actively learning **German** 🇩🇪.
+- 🧠 Currently working in **Neuroscience** as a **Machine Learning Engineer** at the [Paris Brain Institute](https://www.icm-institute.org/en/) researching epileptic seizure prediction using intracranial EEG.
+- 🚀 Previously worked in the **Space Industry** as a **Data Scientist** at [ArianeGroup](https://ariane.group/en/), contributing to the **Ariane 6** program.
+- 🎓 Graduated from [EPITA (Paris)](https://www.epita.fr/en/) with a **French Software Engineering degree**, majoring in **Artificial Intelligence**.
+- 🔄 Fluent in **French** 🇫🇷 and **English** 🇬🇧, actively learning **German** 🇩🇪.
 - 🏃 Enthusiastic about outdoor adventures, including **hiking**, **running**, **football**, and **golf**.
 
 ## Tech Stack 🛠️
